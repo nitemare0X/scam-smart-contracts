@@ -17,7 +17,7 @@ The contract presents itself as a CTF (Capture The Flag) riddle game. It holds a
 
 While the transaction history suggests the answer is `" letteR W "`, the contract is rigged to ignore this answer, permanently locking victim funds.
 
-## 🕵️‍♂️ The Deception (How it Works)
+## The Deception (How it Works)
 
 The scam exploits a discrepancy between **Visible Transaction History** and **Actual Contract State**.
 
