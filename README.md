@@ -6,8 +6,9 @@
 **Balance:** ~40 ETH (At time of analysis)
 
 *similar constract:*
-**Contract:** [0x7777fe71ef56ec1dab003e77516fa2e6e1e0c877](https://etherscan.io/address/0x7777fe71ef56ec1dab003e77516fa2e6e1e0c877)
-**Balance:** 0.1 ETH
+**Contract:** [`0x7777fe71ef56ec1dab003e77516fa2e6e1e0c877`](https://etherscan.io/address/0x7777fe71ef56ec1dab003e77516fa2e6e1e0c877)   
+**Balance:** 0.1 ETH  (At time of analysis)
+
 
 ## Overview
 
